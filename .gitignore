@@ -1,0 +1,39 @@
+# tModLoader .gitignore
+# Ignore build outputs
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+*.dbmdl
+*.log
+*.vspscc
+*.vssscc
+*.pdb
+*.cache
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.suo
+*.sdf
+*.opensdf
+*.tlog
+*.log
+*.vs/
+# Ignore tModLoader mod build artifacts
+*.tmod
+# Ignore local settings
+Properties/launchSettings.json
+# Ignore Rider/JetBrains IDE files
+.idea/
+*.sln.iml
+# Ignore Mac system files
+.DS_Store
+# Ignore Windows system files
+Thumbs.db

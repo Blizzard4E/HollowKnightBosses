@@ -1,0 +1,3 @@
+displayName = Hollow Knight Bosses
+author = Blizzard4E
+version = 0.1
